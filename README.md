@@ -22,7 +22,7 @@ The focus is on understanding real world system vulnerabilities, secure communic
 
 | ❌ | Project Title | Focus Area | Tools Used |
 |---|----------------|-------------|-------------|
-| **1** | [Network Traffic Analysis] (./Project 01 Network Traffic Analysis/) | Capturing and analyzing unencrypted data in transit | Kali Linux, Wireshark, Netcat |
+| **1** | [Network Traffic Analysis](./Project 01 Network Traffic Analysis/) | Capturing and analyzing unencrypted data in transit | Kali Linux, Wireshark, Netcat |
 | **2** | File Encryption, Steganography & Data integrity | Symmetric/asymmetric encryption, digital signatures, hidden data | GPG (GNU Privacy Guard), Steghide, md5sum |
 | **3** | SSH Brute Force Attack Simulation | Offensive security & password cracking using Hydra | Hydra, Wireshark, SSH |
 | **4** | Firewall and MAC Filtering | Configuring IPTables for port blocking, redirection, Mac spoofing | IPTables, Macchanger, SSH |
