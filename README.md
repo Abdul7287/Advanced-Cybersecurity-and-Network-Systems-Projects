@@ -24,11 +24,11 @@ The focus is on understanding real world system vulnerabilities, secure communic
 |---|----------------|-------------|-------------|
 | **1** | [Network Traffic Analysis](./Project-01_Network-Traffic-Analysis/) | Capturing and analyzing unencrypted data in transit | Kali Linux, Wireshark, Netcat |
 | **2** | [File Encryption, Steganography & Data integrity](./Project-02_File-Encryption-and-Steganography) | Symmetric/asymmetric encryption, digital signatures, hidden data | GPG (GNU Privacy Guard), Steghide, md5sum |
-| **3** | SSH Brute Force Attack Simulation | Offensive security & password cracking using Hydra | Hydra, Wireshark, SSH |
-| **4** | Firewall and MAC Filtering | Configuring IPTables for port blocking, redirection, Mac spoofing | IPTables, Macchanger, SSH |
-| **5** | Network Scanning and Discovery | Network mapping and service identification | Nmap, Zenmap, Netcat, Python Server |
-| **6** | Honeypot Implementation | Creating our own fake honeypot, network services and analyzing attack logs | Netcat, Python, Nmap, Wireshark |
-| **7** | Tor & Tails Anonymous Communication | Secure browsing and data sharing through the Tor network | Tails OS, OnionShare, GnuPG, tcpdump, Wireshark |
+| **3** | [SSH Brute Force Attack Simulation](./Project-03_SSH-Bruteforce-and-Hydra) | Offensive security & password cracking using Hydra | Hydra, Wireshark, SSH |
+| **4** | [Firewall and MAC Filtering](./Project-04_Firewall-and-MAC-Filtering) | Configuring IPTables for port blocking, redirection, Mac spoofing | IPTables, Macchanger, SSH |
+| **5** | [Network Scanning and Discovery](./Project-05_Network-Scanning-and-Discovery) | Network mapping and service identification | Nmap, Zenmap, Netcat, Python Server |
+| **6** | [Honeypot Implementation](./Project-06_Honeypot-Implementation) | Creating our own fake honeypot, network services and analyzing attack logs | Netcat, Python, Nmap, Wireshark |
+| **7** | [Tor & Tails Anonymous Communication](./Project-07_Tor-and-Tails-Anonymous-Networking) | Secure browsing and data sharing through the Tor network | Tails OS, OnionShare, GnuPG, tcpdump, Wireshark |
 
 ⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘
 
