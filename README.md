@@ -1,4 +1,6 @@
 # Advanced Cybersecurity and Network Systems Projects
+![Repo Views](https://komarev.com/ghpvc/?username=Abdul7287&repo=Advanced-Cybersecurity-and-Network-Systems-Projects)
+
 This repo presents a collection of 7 projects in **advanced cybersecurity** and **network systems** which includes encryption, steganography, brute force testing, firewall rules, honeypots, and Tor network anonymity with Wireshark and Hydra demonstrating both **offensive** and **defensive** security practices.  
 
 - Each project explores a different domain of applied security, from encryption and steganography to firewall configuration, honeypots, and anonymous networking.
